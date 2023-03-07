@@ -38,7 +38,6 @@ Courses, tutorials and books that facilitate bioinformatics.
   - Genomics and proteomics: https://www.youtube.com/watch?v=HzyUmfc8xCk
   - Futurelearn
     - Bacterial genome from DNA to protein (https://www.futurelearn.com/courses/bacterial-genomes-bioinformatics)  
-    - Metabolomics (https://www.futurelearn.com/courses/metabolomics)
     
    2 - Advanced
    
@@ -62,4 +61,4 @@ Courses, tutorials and books that facilitate bioinformatics.
      - Clinical data science: https://www.coursera.org/specializations/clinical-data-science
      - Essential bioinformatics: http://www.aun.edu.eg/molecular_biology/Procedure%20Bioinformatics22.23-4-2015/Xiong%20-%20Essential%20Bioinformatics%20send%20by%20Amira.pdf **Recommended**
 
-**NOTE: Some courses from coursera will requrire financial aid, use Coursera-answers.txt and replace required fields** 
+**NOTE: Some courses from coursera will require financial aid, use Coursera-answers.txt and replace required fields** 
