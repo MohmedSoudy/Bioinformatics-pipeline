@@ -26,7 +26,7 @@ Courses, tutorials and books that facilitate bioinformatics.
   4 - Machine learning 
   
   - MIT: https://www.youtube.com/watch?v=_PwhiWxHK8o&list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux
-  - Stanford: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN **Important**
+  - Stanford: https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI **Important**
   
   **Biology courses**
 
