@@ -43,12 +43,12 @@ Courses, tutorials and books that facilitate bioinformatics.
    
    - Introduction to systems biology: https://www.coursera.org/learn/systems-biology
    - Systems biology and biotechnology: https://www.coursera.org/specializations/systems-biology
-   - Big data, genes and medicine: https://www.coursera.org/learn/data-genes-medicine
+   - Big data, genes, and medicine: https://www.coursera.org/learn/data-genes-medicine
    - Introduction to the biology of cancer: https://www.coursera.org/learn/cancer
    - Understanding cancer metastasis: https://www.coursera.org/learn/cancer-metastasis
    - From disease to gene and back: https://www.coursera.org/learn/disease-genes
    
-     **Bioinformatics courses, tutorials and books**
+     **Bioinformatics courses, tutorials, and books**
      - Statistics for genomics data science: https://www.coursera.org/learn/statistical-genomics
      - Genomics data science: https://www.coursera.org/specializations/genomic-data-science
      - Biology meets programming for beginners: https://www.coursera.org/learn/bioinformatics
@@ -59,6 +59,6 @@ Courses, tutorials and books that facilitate bioinformatics.
      - Statistical data visualization using seaborn: https://www.coursera.org/projects/statistical-data-visualization-seaborn
      - Data visualization capstone: https://www.coursera.org/learn/data-visualization-capstone
      - Clinical data science: https://www.coursera.org/specializations/clinical-data-science
-     - Essential bioinformatics: http://www.aun.edu.eg/molecular_biology/Procedure%20Bioinformatics22.23-4-2015/Xiong%20-%20Essential%20Bioinformatics%20send%20by%20Amira.pdf **Recommended**
+     - Essential bioinformatics: https://www.researchgate.net/profile/Debabrata-Samanta-5/post/Bioinformatics-Which-book-should-I-read-to-understand-bioinformatics-from-the-very-beginning/attachment/5e0ddd59cfe4a777d4002f7f/AS%3A842868579106817%401577966937429/download/Xiong+J.+-+Essential+bioinformatics-CUP+%282006%29.pdf **Recommended**
 
-**NOTE: Some courses from coursera will require financial aid, use Coursera-answers.txt and replace required fields** 
+**NOTE: Some courses from Coursera will require financial aid, use Coursera-answers.txt and replace required fields** 
